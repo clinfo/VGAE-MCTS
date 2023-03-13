@@ -9,7 +9,7 @@
     "rollout_type": "standard",
     "threshold": 0.08,
     "monte_carlo_iterations": 15000,
-    "minimum_output_depth": 11,
+    "minimum_output_depth": 17,
     "output_type": "bestprop",
     "breath_to_depth_ratio": 0.5,
     "tradeoff_param": 1.5,
