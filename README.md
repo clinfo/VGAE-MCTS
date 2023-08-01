@@ -15,5 +15,5 @@ MCTS uses a model located in a separate repository.
 ## VGAE
 The VGAE model uses model_vae.py and model_vae_gen.py found within https://github.com/clinfo/kGCN/tree/master/example_model. model_vae.py is used for VGAE training and reconstruction, and model_vae_gen.py is used for generation.
 
-## VGAE's Training Dataset
+## Training Dataset for VGAE
 Within the sample_data directory, datasets from ChEMBL used for GuacaMol benchmarking and from ZINC used for physical property optimization are prepared."
