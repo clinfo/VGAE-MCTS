@@ -2,6 +2,8 @@
 
 Authors: Hiroaki Iwata, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, **Ryosuke Kojima**, and **Yasushi Okuno**
 
+DOI: https://doi.org/10.26434/chemrxiv-2023-q8419
+
 # Usage of VGAE-MCTS
 
 VGAE uses a model provided in kGCN.
