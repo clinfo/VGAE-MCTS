@@ -1,4 +1,4 @@
-# VGAE-MCTS
+# VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search
 VGAE uses a model provided in kGCN.
 (URL: https://github.com/clinfo/kGCN/tree/master/sample_chem/generative_model )
 
