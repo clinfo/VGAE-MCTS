@@ -2,7 +2,7 @@
 
 Authors: Hiroaki Iwata, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, **Ryosuke Kojima**, and **Yasushi Okuno**
 
-# Usage of kMoL
+# Usage of VGAE-MCTS
 
 VGAE uses a model provided in kGCN.
 (URL: https://github.com/clinfo/kGCN/tree/master/sample_chem/generative_model )
