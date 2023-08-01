@@ -1,13 +1,12 @@
 # VGAE-MCTS
-VGAEはkGCNで用意されているモデルを使用する。  
-(URL: https://github.com/clinfo/kGCN/tree/master/sample_chem/generative_model )  
+VGAE uses a model provided in kGCN.
+(URL: https://github.com/clinfo/kGCN/tree/master/sample_chem/generative_model )
 
-MCTSは別のレポジトリーにあるモデルを使用する。   
-(URL: https://github.com/clinfo/GraphGenerativeModel/tree/nakai_ver )  
+MCTS uses a model located in a separate repository.
+(URL: https://github.com/clinfo/GraphGenerativeModel/tree/nakai_ver )
 
-# VGAEについて
-VGAEのモデルは、https://github.com/clinfo/kGCN/tree/master/example_model 内のmodel_vae.pyとmodel_vae_gen.pyを使用する。  
-model_vae.pyはVGAEの訓練及び再構成時に使用し、model_vae_gen.pyは生成時に使用する。  
+# About VGAE
+The VGAE model uses model_vae.py and model_vae_gen.py found within https://github.com/clinfo/kGCN/tree/master/example_model. model_vae.py is used for VGAE training and reconstruction, and model_vae_gen.py is used for generation.
 
-# VGAEの学習データセットについて
-sample_dataのディレクトリ内にGuacaMolのベンチマーク測定の際に使用したChEMBLのデータセットと物性値最適化の際に使用したZINCのデータセットを用意している。
+# About VGAE's Training Dataset
+Within the sample_data directory, datasets from ChEMBL used for GuacaMol benchmarking and from ZINC used for physical property optimization are prepared."
